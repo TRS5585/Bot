@@ -15,7 +15,7 @@ import nest_asyncio
 
 PDF_DIR = "./pdfs"
 LOG_FILE = "log.txt"
-TOKEN = "8011191507:AAF3Vwb_Bho1fNl4G5aqfzmXE30GML_L3D8"  # Ton Token
+TOKEN = "8011191507:AAFojg9WjAgtd7gu5qgUX5FsyhT8CdtZPP4"  # Ton Token
 OWNER_CHAT_ID = 7420143709  # Ton ID
 
 ALL_LINES = {}
